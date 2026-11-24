@@ -1,0 +1,158 @@
+{
+    "uuid": "5e0ff545-c54e-4cb2-bfb2-14b9e18a4d21",
+    "material": "PLA",
+    "default_slicer_settings": {
+        "bambustudio": {
+            "profile_name": "Bambu PLA Basic"
+        },
+        "orcaslicer": {
+            "profile_name": "Bambu PLA Basic"
+        }
+    },
+    "id": "2c3d268f-2e94-5fdd-b6e8-692daa32fceb",
+    "brand_id": "1547b0a0-39fc-5114-bb7b-a6dfc2013bf7",
+    "slug": "PLA",
+    "material_class": "FFF",
+    "filaments": [
+        {
+            "id": "d7179f83-3797-5d25-864e-6c8da175c24d",
+            "name": "PLA Aero",
+            "slug": "aero",
+            "variant_count": 2,
+            "path": "filaments/aero/index.json"
+        },
+        {
+            "id": "ce414bd4-ea08-58c5-97f0-0396d2aedb47",
+            "name": "PLA Basic",
+            "slug": "basic",
+            "variant_count": 31,
+            "path": "filaments/basic/index.json"
+        },
+        {
+            "id": "bbe8435d-3402-5f0f-bf51-67f4630fe089",
+            "name": "PLA Basic Gradient",
+            "slug": "basic_gradient",
+            "variant_count": 8,
+            "path": "filaments/basic_gradient/index.json"
+        },
+        {
+            "id": "08669b34-2a88-5350-a17e-1a5ba23a2059",
+            "name": "PLA Galaxy",
+            "slug": "galaxy",
+            "variant_count": 4,
+            "path": "filaments/galaxy/index.json"
+        },
+        {
+            "id": "8de571c7-b58d-5901-8674-b87edf0bde31",
+            "name": "PLA Glow",
+            "slug": "glow",
+            "variant_count": 5,
+            "path": "filaments/glow/index.json"
+        },
+        {
+            "id": "eade245f-6ee9-5293-bee8-43b91a03d1dd",
+            "name": "PLA Marble",
+            "slug": "marble",
+            "variant_count": 2,
+            "path": "filaments/marble/index.json"
+        },
+        {
+            "id": "a2bfe033-d88f-54c6-a782-8e7fdfe6099d",
+            "name": "PLA Matte",
+            "slug": "matte",
+            "variant_count": 25,
+            "path": "filaments/matte/index.json"
+        },
+        {
+            "id": "26a54ce2-092d-5f6a-b610-4db99c23fe10",
+            "name": "PLA Metal",
+            "slug": "metal",
+            "variant_count": 5,
+            "path": "filaments/metal/index.json"
+        },
+        {
+            "id": "bd5899ba-0adb-51f3-b1ab-e30d84092d5f",
+            "name": "PLA-CF",
+            "slug": "pla_cf",
+            "variant_count": 7,
+            "path": "filaments/pla_cf/index.json"
+        },
+        {
+            "id": "41cf8a6d-f7e7-581f-acd0-634f87d76cf0",
+            "name": "PLA Lite",
+            "slug": "pla_lite",
+            "variant_count": 1,
+            "path": "filaments/pla_lite/index.json"
+        },
+        {
+            "id": "60c248a0-1b72-58e1-9136-2e7afc1d4363",
+            "name": "PLA Pure",
+            "slug": "pla_pure",
+            "variant_count": 5,
+            "path": "filaments/pla_pure/index.json"
+        },
+        {
+            "id": "bb3da7ee-c792-5582-9d33-aed3daf62cb5",
+            "name": "PLA Silk Multi-Color",
+            "slug": "pla_silk_multi_color",
+            "variant_count": 0,
+            "path": "filaments/pla_silk_multi_color/index.json"
+        },
+        {
+            "id": "bd9d1ded-d25a-5c23-9458-f3bd3500d4ff",
+            "name": "PLA Silk+",
+            "slug": "silk+",
+            "variant_count": 13,
+            "path": "filaments/silk+/index.json"
+        },
+        {
+            "id": "0d80431d-5c1e-5e0a-a640-792b11306432",
+            "name": "PLA Silk Dual Color",
+            "slug": "silk_dual_color",
+            "variant_count": 10,
+            "path": "filaments/silk_dual_color/index.json"
+        },
+        {
+            "id": "aa3b9040-4cb0-57b1-a4a6-71608e09972d",
+            "name": "PLA Silk",
+            "slug": "silk_pla",
+            "variant_count": 8,
+            "path": "filaments/silk_pla/index.json"
+        },
+        {
+            "id": "f92c110c-a13a-5a77-ad18-ad65f0b76b3e",
+            "name": "PLA Sparkle",
+            "slug": "sparkle",
+            "variant_count": 6,
+            "path": "filaments/sparkle/index.json"
+        },
+        {
+            "id": "cdc9b0d3-1699-528a-925e-977fc2d03158",
+            "name": "PLA Tough",
+            "slug": "tough",
+            "variant_count": 10,
+            "path": "filaments/tough/index.json"
+        },
+        {
+            "id": "1b98f793-4bde-56fe-9c01-a6bcd8624503",
+            "name": "PLA Tough+",
+            "slug": "tough+",
+            "variant_count": 7,
+            "path": "filaments/tough+/index.json"
+        },
+        {
+            "id": "b96a1449-537a-5ecd-b4b5-a6693bc5b5ca",
+            "name": "PLA Translucent",
+            "slug": "translucent",
+            "variant_count": 10,
+            "path": "filaments/translucent/index.json"
+        },
+        {
+            "id": "74c9d742-ed27-50e8-a291-ad961b373494",
+            "name": "PLA Wood",
+            "slug": "wood",
+            "variant_count": 6,
+            "path": "filaments/wood/index.json"
+        }
+    ]
+}

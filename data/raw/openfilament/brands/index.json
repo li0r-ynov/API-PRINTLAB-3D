@@ -1,0 +1,1675 @@
+{
+    "version": "2026.11.23",
+    "generated_at": "2026-11-23T02:42:02Z",
+    "count": 184,
+    "brands": [
+        {
+            "id": "c30e53fc-da9d-58f9-acdb-8b344461deb3",
+            "name": "123-3D",
+            "slug": "123_3d",
+            "origin": "NL",
+            "material_count": 1,
+            "path": "123_3d/index.json",
+            "logo_slug": "123-3D_logo_png_1029dafb.png"
+        },
+        {
+            "id": "809f704b-5f2c-5d57-a384-bee555196460",
+            "name": "22 Network",
+            "slug": "22_network",
+            "origin": "US",
+            "material_count": 1,
+            "path": "22_network/index.json",
+            "logo_slug": "22 Network_logo_png_c4319375.png"
+        },
+        {
+            "id": "f1c2dbc7-3c03-564d-8d4d-4ac5011f5c9b",
+            "name": "3D-basics",
+            "slug": "3d_basics",
+            "origin": "AT",
+            "material_count": 0,
+            "path": "3d_basics/index.json",
+            "logo_slug": "3D-basics_logo_png_4376fbc7.png"
+        },
+        {
+            "id": "83ffd8dc-8612-59f6-8d73-6fb369bb0154",
+            "name": "3D Fuel",
+            "slug": "3d_fuel",
+            "origin": "US",
+            "material_count": 4,
+            "path": "3d_fuel/index.json",
+            "logo_slug": "3D Fuel_logo_png_9dbc77c1.png"
+        },
+        {
+            "id": "ac3bfb16-66c9-5e6d-a5fa-cb512ecc60f8",
+            "name": "3D Prima Basic",
+            "slug": "3d_prima_basic",
+            "origin": "Unknown",
+            "material_count": 1,
+            "path": "3d_prima_basic/index.json",
+            "logo_slug": "3D Prima Basic_logo_png_4faa3b59.png"
+        },
+        {
+            "id": "92be8b1a-fcb2-5278-97e8-fc985b0ecac7",
+            "name": "3D Printing Canada",
+            "slug": "3d_printing_canada",
+            "origin": "CA",
+            "material_count": 2,
+            "path": "3d_printing_canada/index.json",
+            "logo_slug": "3D Printing Canada_logo_png_887b2c60.png"
+        },
+        {
+            "id": "e121d4f4-fba6-5602-91aa-9d5b8501d2df",
+            "name": "3DEA",
+            "slug": "3dea",
+            "origin": "NZ",
+            "material_count": 12,
+            "path": "3dea/index.json",
+            "logo_slug": "3DEA_logo_png_887629be.png"
+        },
+        {
+            "id": "12343872-1358-5e58-a803-daef6ea1f7cf",
+            "name": "3DE",
+            "slug": "3deksperten",
+            "origin": "DK",
+            "material_count": 3,
+            "path": "3deksperten/index.json",
+            "logo_slug": "3DE_logo_jpg_202ff953.jpg"
+        },
+        {
+            "id": "9f347df9-9cec-514c-b397-eb1aef91271a",
+            "name": "3DFOX",
+            "slug": "3dfox",
+            "origin": "CZ",
+            "material_count": 1,
+            "path": "3dfox/index.json",
+            "logo_slug": "3DFOX_logo_png_7ce5801e.png"
+        },
+        {
+            "id": "03b2273b-2065-5eee-92c1-0b213018dfff",
+            "name": "3DHoJor",
+            "slug": "3dhojor",
+            "origin": "Unknown",
+            "material_count": 2,
+            "path": "3dhojor/index.json",
+            "logo_slug": "3DHoJor_logo_svg_41202f94.svg"
+        },
+        {
+            "id": "4118e0f3-8033-5ba8-b43b-b407137aae8e",
+            "name": "3DJAKE",
+            "slug": "3djake",
+            "origin": "CZ",
+            "material_count": 6,
+            "path": "3djake/index.json",
+            "logo_slug": "3DJAKE_logo_svg_75b0392c.svg"
+        },
+        {
+            "id": "6c6a1cd4-6a56-5018-ad7f-f4bd62045fa7",
+            "name": "3DO",
+            "slug": "3do",
+            "origin": "DK",
+            "material_count": 3,
+            "path": "3do/index.json",
+            "logo_slug": "3DO_logo_png_2802e920.png"
+        },
+        {
+            "id": "0fd81b7b-ec04-58e7-bba4-e32e5e1ee209",
+            "name": "3DPower",
+            "slug": "3dpower",
+            "origin": "PL",
+            "material_count": 6,
+            "path": "3dpower/index.json",
+            "logo_slug": "3DPower_logo_png_0cee0d0e.png"
+        },
+        {
+            "id": "029d4e68-3407-57ba-9cd1-bdf1a00732ce",
+            "name": "3DXTech",
+            "slug": "3dxtech",
+            "origin": "US",
+            "material_count": 23,
+            "path": "3dxtech/index.json",
+            "logo_slug": "3DXTech_logo_svg_edee7f88.svg"
+        },
+        {
+            "id": "fda74e3c-2722-517c-9209-6a8481bb87a4",
+            "name": "4D-Lab",
+            "slug": "4d_lab",
+            "origin": "CO",
+            "material_count": 1,
+            "path": "4d_lab/index.json",
+            "logo_slug": "4D-Lab_logo_png_007f3e9a.png"
+        },
+        {
+            "id": "6332e280-0606-5c71-8165-69d68689d1db",
+            "name": "Aceaddity",
+            "slug": "aceaddity",
+            "origin": "CN",
+            "material_count": 1,
+            "path": "aceaddity/index.json",
+            "logo_slug": "Aceaddity_logo_png_bcbfaf22.png"
+        },
+        {
+            "id": "499535a4-31ec-5fb9-ad0f-2eeb7599298c",
+            "name": "ACESAY",
+            "slug": "acesay",
+            "origin": "Unknown",
+            "material_count": 1,
+            "path": "acesay/index.json",
+            "logo_slug": "ACESAY_logo_png_2b4105e2.png"
+        },
+        {
+            "id": "cabf74fc-a462-521e-b619-18cb0f3ddcb5",
+            "name": "Add-North",
+            "slug": "add_north",
+            "origin": "SE",
+            "material_count": 8,
+            "path": "add_north/index.json",
+            "logo_slug": "Add-North_logo_jpg_c347f388.jpg"
+        },
+        {
+            "id": "38056727-d628-5971-9a50-dd8f4b003032",
+            "name": "Altana",
+            "slug": "altana",
+            "origin": "DE",
+            "material_count": 0,
+            "path": "altana/index.json",
+            "logo_slug": "Altana_logo_png_6d8ece18.png"
+        },
+        {
+            "id": "347e66aa-0876-59b9-baf7-751203f44ae4",
+            "name": "Alzament",
+            "slug": "alzament",
+            "origin": "CZ",
+            "material_count": 5,
+            "path": "alzament/index.json",
+            "logo_slug": "Alzament_logo_jpg_c64e2071.jpg"
+        },
+        {
+            "id": "39886f9c-dbba-59af-ab7c-5596a1dfc691",
+            "name": "AmazonBasics",
+            "slug": "amazonbasics",
+            "origin": "US",
+            "material_count": 2,
+            "path": "amazonbasics/index.json",
+            "logo_slug": "AmazonBasics_logo_png_22fdca09.png"
+        },
+        {
+            "id": "660e2ed2-34f4-5092-bad0-eadd69971f49",
+            "name": "Ambrosia",
+            "slug": "ambrosia",
+            "origin": "US",
+            "material_count": 7,
+            "path": "ambrosia/index.json",
+            "logo_slug": "Ambrosia_logo_png_e87e2520.png"
+        },
+        {
+            "id": "6659bf37-d59d-5f7e-ab97-64b229534b56",
+            "name": "AmeLeis",
+            "slug": "ameleis",
+            "origin": "Unknown",
+            "material_count": 1,
+            "path": "ameleis/index.json",
+            "logo_slug": "AmeLeis_logo_png_a55a2215.png"
+        },
+        {
+            "id": "ec395f2e-0ede-5d62-862d-9597dc8f685b",
+            "name": "American Filament",
+            "slug": "american_filament",
+            "origin": "US",
+            "material_count": 2,
+            "path": "american_filament/index.json",
+            "logo_slug": "American Filament_logo_png_5ace08c4.png"
+        },
+        {
+            "id": "077157e4-2ec0-56c6-84c1-5e5b0708a97f",
+            "name": "Amolen",
+            "slug": "amolen",
+            "origin": "US",
+            "material_count": 4,
+            "path": "amolen/index.json",
+            "logo_slug": "Amolen_logo_png_23df38e4.png"
+        },
+        {
+            "id": "21dec52a-e067-5a9d-a7f4-afe8ee9039f0",
+            "name": "Anycubic",
+            "slug": "anycubic",
+            "origin": "CN",
+            "material_count": 5,
+            "path": "anycubic/index.json",
+            "logo_slug": "Anycubic_logo_png_03c65393.png"
+        },
+        {
+            "id": "a12ca3a8-3d4d-5b1f-96e9-9c5bfe50f156",
+            "name": "Arianeplast",
+            "slug": "arianeplast",
+            "origin": "FR",
+            "material_count": 1,
+            "path": "arianeplast/index.json",
+            "logo_slug": "Arianeplast_logo_jpg_2d84a3e6.jpg"
+        },
+        {
+            "id": "b5e2a09c-0605-59a2-9952-baee43b72054",
+            "name": "Artillery",
+            "slug": "artillery",
+            "origin": "CN",
+            "material_count": 1,
+            "path": "artillery/index.json",
+            "logo_slug": "Artillery_logo_png_dcbebffb.png"
+        },
+        {
+            "id": "63d3fd9e-4d39-593a-aa21-12ca953ace75",
+            "name": "ATARAXIA ART",
+            "slug": "ataraxia_art",
+            "origin": "CH",
+            "material_count": 2,
+            "path": "ataraxia_art/index.json",
+            "logo_slug": "ATARAXIA ART_logo_jpg_b005037d.jpg"
+        },
+        {
+            "id": "cac6af6f-3294-58da-9a89-bd56af477626",
+            "name": "Atomic Filament",
+            "slug": "atomic_filament",
+            "origin": "US",
+            "material_count": 4,
+            "path": "atomic_filament/index.json",
+            "logo_slug": "Atomic Filament_logo_png_20738ddb.png"
+        },
+        {
+            "id": "0435a47f-d1c8-54ee-94c1-b71b31fab25c",
+            "name": "AURAPOL",
+            "slug": "aurapol",
+            "origin": "CZ",
+            "material_count": 4,
+            "path": "aurapol/index.json",
+            "logo_slug": "AURAPOL_logo_png_ca1686dd.png"
+        },
+        {
+            "id": "f8073999-1c63-5b4d-9acf-6a8fe7b67630",
+            "name": "AzureFilm",
+            "slug": "azurefilm",
+            "origin": "SI",
+            "material_count": 9,
+            "path": "azurefilm/index.json",
+            "logo_slug": "AzureFilm_logo_png_53ddbcad.png"
+        },
+        {
+            "id": "1547b0a0-39fc-5114-bb7b-a6dfc2013bf7",
+            "name": "Bambu Lab",
+            "slug": "bambu_lab",
+            "origin": "CN",
+            "material_count": 12,
+            "path": "bambu_lab/index.json",
+            "logo_slug": "Bambu Lab_logo_png_778076ec.png"
+        },
+        {
+            "id": "f07e5eea-5a53-580c-a4bb-afe86d478051",
+            "name": "Bavaria Filaments",
+            "slug": "bavaria_filaments",
+            "origin": "DE",
+            "material_count": 6,
+            "path": "bavaria_filaments/index.json",
+            "logo_slug": "Bavaria Filaments_logo_png_b1b00b62.png"
+        },
+        {
+            "id": "2dd52f5f-ad38-539b-bac0-a94abc47d13b",
+            "name": "BIQU",
+            "slug": "biqu",
+            "origin": "CN",
+            "material_count": 1,
+            "path": "biqu/index.json",
+            "logo_slug": "BIQU_logo_png_c41b22f4.png"
+        },
+        {
+            "id": "9328db52-789c-55c7-a341-0ad07686046e",
+            "name": "Buddy3D",
+            "slug": "buddy3d",
+            "origin": "CZ",
+            "material_count": 4,
+            "path": "buddy3d/index.json",
+            "logo_slug": "Buddy3D_logo_png_84095f94.png"
+        },
+        {
+            "id": "9840ea9a-b73d-5d3a-a8e5-e7d936aae7a4",
+            "name": "BuildVolume",
+            "slug": "buildvolume",
+            "origin": "ZA",
+            "material_count": 2,
+            "path": "buildvolume/index.json",
+            "logo_slug": "BuildVolume_logo_png_b1a9c262.png"
+        },
+        {
+            "id": "4258415e-e803-57e9-8032-45dabcdc11be",
+            "name": "C-tech",
+            "slug": "c_tech",
+            "origin": "CZ",
+            "material_count": 1,
+            "path": "c_tech/index.json",
+            "logo_slug": "C-tech_logo_png_c62b9bdc.png"
+        },
+        {
+            "id": "c8a4d7a5-c4cd-56e6-b699-46aa9b52dede",
+            "name": "Cai Lab",
+            "slug": "cai_lab",
+            "origin": "HK",
+            "material_count": 2,
+            "path": "cai_lab/index.json",
+            "logo_slug": "Cai Lab_logo_png_d4f08f35.png"
+        },
+        {
+            "id": "346e232c-3107-5b3f-b93b-c4cab47b9bcd",
+            "name": "CC3D",
+            "slug": "cc3d",
+            "origin": "CN",
+            "material_count": 8,
+            "path": "cc3d/index.json",
+            "logo_slug": "CC3D_logo_png_8425083e.png"
+        },
+        {
+            "id": "708f0513-a578-57c8-bdb6-15489d52c633",
+            "name": "CHCKX",
+            "slug": "chckx",
+            "origin": "US",
+            "material_count": 1,
+            "path": "chckx/index.json",
+            "logo_slug": "CHCKX_logo_png_665fbd80.png"
+        },
+        {
+            "id": "348281e1-7805-5945-8f56-179565a78539",
+            "name": "Clas Ohlson",
+            "slug": "clas_ohlson",
+            "origin": "SE",
+            "material_count": 1,
+            "path": "clas_ohlson/index.json",
+            "logo_slug": "Clas Ohlson_logo_svg_b62e5b12.svg"
+        },
+        {
+            "id": "b5959ac2-225e-5a07-b870-9482aedae6b9",
+            "name": "COEX 3D",
+            "slug": "coex_3d",
+            "origin": "US",
+            "material_count": 5,
+            "path": "coex_3d/index.json",
+            "logo_slug": "COEX 3D_logo_png_ae927fe5.png"
+        },
+        {
+            "id": "ca547cfe-c4a3-5824-959c-7172c8414344",
+            "name": "colorFabb",
+            "slug": "colorfabb",
+            "origin": "NL",
+            "material_count": 6,
+            "path": "colorfabb/index.json",
+            "logo_slug": "colorFabb_logo_svg_ac506ad2.svg"
+        },
+        {
+            "id": "39bfe4d8-24b3-5c5a-8889-b1dea91e2420",
+            "name": "Cookiecad",
+            "slug": "cookiecad",
+            "origin": "US",
+            "material_count": 5,
+            "path": "cookiecad/index.json",
+            "logo_slug": "Cookiecad_logo_svg_3b2043a2.svg"
+        },
+        {
+            "id": "aefa56be-e3a1-5ad3-9a15-190fadbb6d52",
+            "name": "Copymaster",
+            "slug": "copymaster",
+            "origin": "Unknown",
+            "material_count": 1,
+            "path": "copymaster/index.json",
+            "logo_slug": "Copymaster_logo_png_56a86dcd.png"
+        },
+        {
+            "id": "a3fa0112-9080-5c92-bf20-14acaca80178",
+            "name": "Creality",
+            "slug": "creality",
+            "origin": "CN",
+            "material_count": 8,
+            "path": "creality/index.json",
+            "logo_slug": "Creality_logo_png_ac94db3b.png"
+        },
+        {
+            "id": "c0c90ab9-8fe4-5d45-a5ae-f53e964822b3",
+            "name": "Dancyn 3D Prints",
+            "slug": "dancyn_3d_prints",
+            "origin": "US",
+            "material_count": 2,
+            "path": "dancyn_3d_prints/index.json",
+            "logo_slug": "Dancyn 3D Prints_logo_png_9ba6616e.png"
+        },
+        {
+            "id": "387ed07b-8edd-5b57-a8cf-d913346e8185",
+            "name": "Das Filament",
+            "slug": "das_filament",
+            "origin": "DE",
+            "material_count": 3,
+            "path": "das_filament/index.json",
+            "logo_slug": "Das Filament_logo_png_ea5f0303.png"
+        },
+        {
+            "id": "1e9f3391-bac3-5121-845e-71a7520e0093",
+            "name": "DeepLee",
+            "slug": "deeplee",
+            "origin": "CN",
+            "material_count": 1,
+            "path": "deeplee/index.json",
+            "logo_slug": "DeepLee_logo_png_4afc21d1.png"
+        },
+        {
+            "id": "99613d8e-1e3d-5598-ab6a-3d9d2ff60f14",
+            "name": "Devil Design",
+            "slug": "devil_design",
+            "origin": "PL",
+            "material_count": 7,
+            "path": "devil_design/index.json",
+            "logo_slug": "Devil Design_logo_png_a2559fec.png"
+        },
+        {
+            "id": "ff9320a4-59e2-5124-b7e5-0845fcdc7bb2",
+            "name": "Dremel",
+            "slug": "dremel",
+            "origin": "US",
+            "material_count": 3,
+            "path": "dremel/index.json",
+            "logo_slug": "Dremel_logo_png_cb5cb95c.png"
+        },
+        {
+            "id": "90c6bbf8-5b0c-5a8c-bea0-1d56aa7ce342",
+            "name": "DuramiC 3D",
+            "slug": "duramic_3d",
+            "origin": "CN",
+            "material_count": 1,
+            "path": "duramic_3d/index.json",
+            "logo_slug": "DuramiC 3D_logo_jpg_858abae1.jpg"
+        },
+        {
+            "id": "17b27fc4-2df0-5ca7-bb39-c71c0886f382",
+            "name": "EasyPrint",
+            "slug": "easyprint",
+            "origin": "SE",
+            "material_count": 5,
+            "path": "easyprint/index.json",
+            "parent_brand_id": "a3bc267a-a1e0-5b21-a6a8-8bf712095665",
+            "logo_slug": "EasyPrint_logo_png_8344fb4a.png"
+        },
+        {
+            "id": "580cab14-395a-59eb-8a1c-735296484e42",
+            "name": "EconoFil",
+            "slug": "econofil",
+            "origin": "CA",
+            "material_count": 2,
+            "path": "econofil/index.json",
+            "logo_slug": "EconoFil_logo_png_f9534583.png"
+        },
+        {
+            "id": "65026f70-74db-5916-bc7a-63ffc8bff0b2",
+            "name": "ELEGOO",
+            "slug": "elegoo",
+            "origin": "CN",
+            "material_count": 8,
+            "path": "elegoo/index.json",
+            "logo_slug": "ELEGOO_logo_png_b1ae954a.png"
+        },
+        {
+            "id": "efba71e1-6401-5fd5-b423-54e5fe377cff",
+            "name": "Eolas Prints",
+            "slug": "eolas_prints",
+            "origin": "ES",
+            "material_count": 5,
+            "path": "eolas_prints/index.json",
+            "logo_slug": "Eolas Prints_logo_png_459c2945.png"
+        },
+        {
+            "id": "8ba145db-398c-53c8-a719-e38a887108fe",
+            "name": "EPAX",
+            "slug": "epax",
+            "origin": "US",
+            "material_count": 4,
+            "path": "epax/index.json",
+            "logo_slug": "EPAX_logo_jpg_33f5f975.jpg"
+        },
+        {
+            "id": "c3e0dd0c-7f84-54a5-b66f-319e8fb62362",
+            "name": "Eryone",
+            "slug": "eryone",
+            "origin": "CN",
+            "material_count": 8,
+            "path": "eryone/index.json",
+            "logo_slug": "Eryone_logo_png_14bcd43b.png"
+        },
+        {
+            "id": "ca87f4a3-d152-5e88-99c1-c355ab3016d3",
+            "name": "eSUN 3D",
+            "slug": "esun_3d",
+            "origin": "CN",
+            "material_count": 10,
+            "path": "esun_3d/index.json",
+            "logo_slug": "eSUN 3D_logo_png_faf5ad3a.png"
+        },
+        {
+            "id": "613f11d7-5dea-53c8-934d-b7dc3cff8184",
+            "name": "EUMAKERS",
+            "slug": "eumakers",
+            "origin": "IT",
+            "material_count": 1,
+            "path": "eumakers/index.json",
+            "logo_slug": "EUMAKERS_logo_png_28a88ca6.png"
+        },
+        {
+            "id": "01bb6010-7ea2-5f09-bfae-559113454365",
+            "name": "extrudr",
+            "slug": "extrudr",
+            "origin": "AT",
+            "material_count": 8,
+            "path": "extrudr/index.json",
+            "logo_slug": "extrudr_logo_png_68e5bf4f.png"
+        },
+        {
+            "id": "2de314d5-6333-5fb9-90f6-905786a30bbd",
+            "name": "Fiberlogy",
+            "slug": "fiberlogy",
+            "origin": "PL",
+            "material_count": 15,
+            "path": "fiberlogy/index.json",
+            "logo_slug": "Fiberlogy_logo_png_ed2dec38.png"
+        },
+        {
+            "id": "811dccf9-caf8-53fa-988f-f251c9f4b458",
+            "name": "Fiberon",
+            "slug": "fiberon",
+            "origin": "CN",
+            "material_count": 6,
+            "path": "fiberon/index.json",
+            "parent_brand_id": "08110b99-03f7-5884-b7e7-07a3f659084d",
+            "logo_slug": "Fiberon_logo_svg_b74e7dea.svg"
+        },
+        {
+            "id": "75b351e5-fe2f-5121-a16b-178619e45b40",
+            "name": "FiberThree",
+            "slug": "fiberthree",
+            "origin": "DE",
+            "material_count": 6,
+            "path": "fiberthree/index.json",
+            "logo_slug": "FiberThree_logo_png_01abde10.png"
+        },
+        {
+            "id": "4e340020-1f70-50e2-a811-9396c3056ad6",
+            "name": "FilaCube",
+            "slug": "filacube",
+            "origin": "US",
+            "material_count": 1,
+            "path": "filacube/index.json",
+            "logo_slug": "FilaCube_logo_png_086eb362.png"
+        },
+        {
+            "id": "827a2ca8-2554-53ee-b793-aa388b26003b",
+            "name": "Filamatrix",
+            "slug": "filamatrix",
+            "origin": "US",
+            "material_count": 1,
+            "path": "filamatrix/index.json",
+            "logo_slug": "Filamatrix_logo_png_7d799252.png"
+        },
+        {
+            "id": "e591eb47-3c58-5f91-a558-0cb9f77f8742",
+            "name": "Filamentive",
+            "slug": "filamentive",
+            "origin": "GB",
+            "material_count": 3,
+            "path": "filamentive/index.json",
+            "logo_slug": "Filamentive_logo_png_98f44561.png"
+        },
+        {
+            "id": "e9032dc6-d2b8-531f-a7ad-89f69faeee20",
+            "name": "FilamentPM",
+            "slug": "filamentpm",
+            "origin": "CZ",
+            "material_count": 15,
+            "path": "filamentpm/index.json",
+            "logo_slug": "FilamentPM_logo_png_2dbb6321.png"
+        },
+        {
+            "id": "b5b49a2a-e9b7-587b-8c87-d0bdf5de6f69",
+            "name": "Filamentree",
+            "slug": "filamentree",
+            "origin": "SK",
+            "material_count": 2,
+            "path": "filamentree/index.json",
+            "logo_slug": "Filamentree_logo_png_e71ca0cc.png"
+        },
+        {
+            "id": "994425b2-3364-54de-8bba-9ac3722e0a2e",
+            "name": "Filamentworld",
+            "slug": "filamentworld",
+            "origin": "DE",
+            "material_count": 3,
+            "path": "filamentworld/index.json",
+            "logo_slug": "Filamentworld_logo_png_041f1c8e.png"
+        },
+        {
+            "id": "2558d9c2-750f-509e-811b-47b16a1f9db7",
+            "name": "Filatech",
+            "slug": "filatech",
+            "origin": "AE",
+            "material_count": 2,
+            "path": "filatech/index.json",
+            "logo_slug": "Filatech_logo_svg_eb949721.svg"
+        },
+        {
+            "id": "998f744a-5290-5cd1-a5c3-462fd389e0f4",
+            "name": "Filaxix",
+            "slug": "filaxix",
+            "origin": "Unknown",
+            "material_count": 1,
+            "path": "filaxix/index.json",
+            "logo_slug": "Filaxix_logo_png_b335b7fa.png"
+        },
+        {
+            "id": "b8e728ec-accc-5a86-89b3-cd5c2e594230",
+            "name": "Filkemp",
+            "slug": "filkemp",
+            "origin": "PT",
+            "material_count": 2,
+            "path": "filkemp/index.json",
+            "logo_slug": "Filkemp_logo_svg_e6b6be84.svg"
+        },
+        {
+            "id": "b8944062-8eaf-507d-8771-4addc5190c06",
+            "name": "Fillamentum",
+            "slug": "fillamentum",
+            "origin": "CZ",
+            "material_count": 3,
+            "path": "fillamentum/index.json",
+            "logo_slug": "Fillamentum_logo_png_6360dbb0.png"
+        },
+        {
+            "id": "a38c1f64-161c-528e-adce-66f882577f5a",
+            "name": "FLASHFORGE",
+            "slug": "flashforge",
+            "origin": "Unknown",
+            "material_count": 4,
+            "path": "flashforge/index.json",
+            "logo_slug": "FLASHFORGE_logo_png_6ae53361.png"
+        },
+        {
+            "id": "515ebfc0-d7ba-5e93-9db7-41d5d467bedc",
+            "name": "Floreon3D",
+            "slug": "floreon3d",
+            "origin": "GB",
+            "material_count": 0,
+            "path": "floreon3d/index.json",
+            "logo_slug": "Floreon3D_logo_png_38b75668.png"
+        },
+        {
+            "id": "bc4b62cf-f211-5dd6-9d47-fb7dab7d42db",
+            "name": "FormFutura",
+            "slug": "formfutura",
+            "origin": "NL",
+            "material_count": 20,
+            "path": "formfutura/index.json",
+            "logo_slug": "FormFutura_logo_png_36f4ab0e.png"
+        },
+        {
+            "id": "c70ee766-af69-55b4-b645-160d555a5f9e",
+            "name": "Forward AM",
+            "slug": "forward_am",
+            "origin": "DE",
+            "material_count": 1,
+            "path": "forward_am/index.json",
+            "logo_slug": "Forward AM_logo_jpg_d8435d04.jpg"
+        },
+        {
+            "id": "e76a0732-de25-5c53-a5a1-7dc2c1ece500",
+            "name": "Francofil",
+            "slug": "francofil",
+            "origin": "FR",
+            "material_count": 6,
+            "path": "francofil/index.json",
+            "logo_slug": "Francofil_logo_png_d352854f.png"
+        },
+        {
+            "id": "fd4d7293-1d59-5c6c-9096-3f9c153bd505",
+            "name": "Fremover",
+            "slug": "fremover",
+            "origin": "Unknown",
+            "material_count": 1,
+            "path": "fremover/index.json",
+            "logo_slug": "Fremover_logo_png_efc87935.png"
+        },
+        {
+            "id": "0a56b886-d0fb-53f5-ba53-49ab278e5eef",
+            "name": "Geeetech",
+            "slug": "geeetech",
+            "origin": "CN",
+            "material_count": 4,
+            "path": "geeetech/index.json",
+            "logo_slug": "Geeetech_logo_png_9c09c834.png"
+        },
+        {
+            "id": "3ab462bc-c471-5810-b138-9be3ee649901",
+            "name": "GIANTARM",
+            "slug": "giantarm",
+            "origin": "CN",
+            "material_count": 2,
+            "path": "giantarm/index.json",
+            "logo_slug": "GIANTARM_logo_png_41491efe.png"
+        },
+        {
+            "id": "2229c2e0-ac7f-5557-92a0-9d4660b70bf9",
+            "name": "Gizmo Dorks",
+            "slug": "gizmo_dorks",
+            "origin": "US",
+            "material_count": 8,
+            "path": "gizmo_dorks/index.json",
+            "logo_slug": "Gizmo Dorks_logo_png_31e2c707.png"
+        },
+        {
+            "id": "90b325df-2124-5095-8839-ab131903d21c",
+            "name": "GST3D",
+            "slug": "gst3d",
+            "origin": "ES",
+            "material_count": 5,
+            "path": "gst3d/index.json",
+            "logo_slug": "GST3D_logo_png_366427d5.png"
+        },
+        {
+            "id": "ae5fbaa1-8427-5602-89d4-1c7dc82359f6",
+            "name": "Hatchbox",
+            "slug": "hatchbox",
+            "origin": "CN",
+            "material_count": 4,
+            "path": "hatchbox/index.json",
+            "logo_slug": "Hatchbox_logo_png_004a53a2.png"
+        },
+        {
+            "id": "22c40570-84e2-554f-ab04-4236bdecdfb2",
+            "name": "Henkel",
+            "slug": "henkel",
+            "origin": "DE",
+            "material_count": 0,
+            "path": "henkel/index.json",
+            "logo_slug": "Henkel_logo_png_06c932bb.png"
+        },
+        {
+            "id": "5f9a758a-dace-5db3-9edb-f655f186e159",
+            "name": "Hobby Lobby",
+            "slug": "hobby_lobby",
+            "origin": "Unknown",
+            "material_count": 1,
+            "path": "hobby_lobby/index.json",
+            "logo_slug": "Hobby Lobby_logo_png_db49a3a7.png"
+        },
+        {
+            "id": "5f8f30b6-62c3-5185-aa83-c7ef21d5f5d2",
+            "name": "iBOSS 3D",
+            "slug": "iboss_3d",
+            "origin": "CN",
+            "material_count": 2,
+            "path": "iboss_3d/index.json",
+            "logo_slug": "iBOSS 3D_logo_png_3773e628.png"
+        },
+        {
+            "id": "6be25ee6-ed04-51da-963d-217cacece219",
+            "name": "IC3D",
+            "slug": "ic3d",
+            "origin": "US",
+            "material_count": 3,
+            "path": "ic3d/index.json",
+            "logo_slug": "IC3D_logo_png_34f590cd.png"
+        },
+        {
+            "id": "7b95150b-ed6b-52d8-9a08-aff3db112436",
+            "name": "IEMAI",
+            "slug": "iemai",
+            "origin": "CN",
+            "material_count": 14,
+            "path": "iemai/index.json",
+            "logo_slug": "IEMAI_logo_png_6e0dc866.png"
+        },
+        {
+            "id": "26032531-4bc1-50fe-aded-2ddf5c099d4a",
+            "name": "igus",
+            "slug": "igus",
+            "origin": "DE",
+            "material_count": 0,
+            "path": "igus/index.json",
+            "logo_slug": "igus_logo_jpg_ed287653.jpg"
+        },
+        {
+            "id": "e6611ddf-87dc-5361-915b-7ad3eac5a031",
+            "name": "IIID MAX",
+            "slug": "iiid_max",
+            "origin": "US",
+            "material_count": 1,
+            "path": "iiid_max/index.json",
+            "logo_slug": "IIID MAX_logo_png_f300cae6.png"
+        },
+        {
+            "id": "bba7be5f-7cb3-55e9-9ae2-bfbc75b8ebbc",
+            "name": "Inland",
+            "slug": "inland",
+            "origin": "US",
+            "material_count": 5,
+            "path": "inland/index.json",
+            "logo_slug": "Inland_logo_png_7b3691a0.png"
+        },
+        {
+            "id": "6e8cf458-f852-5c8d-ba32-34431a8ac6b3",
+            "name": "Insignia",
+            "slug": "insignia",
+            "origin": "Unknown",
+            "material_count": 2,
+            "path": "insignia/index.json",
+            "logo_slug": "Insignia_logo_png_4cde8cdb.png"
+        },
+        {
+            "id": "203f6949-80c3-5a4c-93c7-2cd233de764f",
+            "name": "Inslogic",
+            "slug": "inslogic",
+            "origin": "CN",
+            "material_count": 10,
+            "path": "inslogic/index.json",
+            "logo_slug": "Inslogic_logo_png_0422441f.png"
+        },
+        {
+            "id": "93414436-e25a-5468-85f8-1850acdcc893",
+            "name": "iSangHu",
+            "slug": "isanghu",
+            "origin": "CN",
+            "material_count": 2,
+            "path": "isanghu/index.json",
+            "logo_slug": "iSangHu_logo_jpg_cff224dc.jpg"
+        },
+        {
+            "id": "810ae024-1335-5b08-b997-ad5355e23613",
+            "name": "iSANMATE",
+            "slug": "isanmate",
+            "origin": "CN",
+            "material_count": 3,
+            "path": "isanmate/index.json",
+            "logo_slug": "iSANMATE_logo_png_931e37e4.png"
+        },
+        {
+            "id": "3eb316bd-c732-5d47-ba24-3d26f17eb281",
+            "name": "JAYO",
+            "slug": "jayo",
+            "origin": "HK",
+            "material_count": 4,
+            "path": "jayo/index.json",
+            "logo_slug": "JAYO_logo_jpg_0aafc174.jpg"
+        },
+        {
+            "id": "a9fc9650-72f8-5f0c-a04c-0e89f66f34c0",
+            "name": "Jessie",
+            "slug": "jessie",
+            "origin": "US",
+            "material_count": 1,
+            "path": "jessie/index.json",
+            "parent_brand_id": "255197d3-a63c-5090-83af-4a82715e810b",
+            "logo_slug": "Jessie_logo_png_f65cdc2b.png"
+        },
+        {
+            "id": "eb91d42f-bea9-56a2-9579-d2d0468cae3b",
+            "name": "kexcelled",
+            "slug": "kexcelled",
+            "origin": "CN",
+            "material_count": 3,
+            "path": "kexcelled/index.json",
+            "logo_slug": "kexcelled_logo_png_c700fc1f.png"
+        },
+        {
+            "id": "aede2ac7-76ff-5d90-bf12-a1567aa47d73",
+            "name": "Kimya",
+            "slug": "kimya",
+            "origin": "ES",
+            "material_count": 1,
+            "path": "kimya/index.json",
+            "logo_slug": "Kimya_logo_png_af16e95d.png"
+        },
+        {
+            "id": "46ac4ea2-5b33-51ea-b40c-c72940bed845",
+            "name": "Kingroon",
+            "slug": "kingroon",
+            "origin": "CN",
+            "material_count": 4,
+            "path": "kingroon/index.json",
+            "logo_slug": "Kingroon_logo_png_9edbec20.png"
+        },
+        {
+            "id": "355d6a4e-4598-5119-93c5-df66f045ea6a",
+            "name": "KiwiFil",
+            "slug": "kiwifil",
+            "origin": "NZ",
+            "material_count": 2,
+            "path": "kiwifil/index.json",
+            "logo_slug": "KiwiFil_logo_png_b5275486.png"
+        },
+        {
+            "id": "430e5f76-3290-5a3a-87c4-d47e7b9f4ff1",
+            "name": "L3D",
+            "slug": "l3d",
+            "origin": "DK",
+            "material_count": 2,
+            "path": "l3d/index.json",
+            "logo_slug": "L3D_logo_png_53204327.png"
+        },
+        {
+            "id": "a0dbb445-c8e4-5ff5-b354-17882e76f65b",
+            "name": "Landu",
+            "slug": "landu",
+            "origin": "CN",
+            "material_count": 1,
+            "path": "landu/index.json",
+            "logo_slug": "Landu_logo_png_c7dd4cf6.png"
+        },
+        {
+            "id": "fdc52d90-40e8-54dc-9088-84dd39a23bdc",
+            "name": "LayerWorks Solutions",
+            "slug": "layerworks_solutions",
+            "origin": "US",
+            "material_count": 1,
+            "path": "layerworks_solutions/index.json",
+            "logo_slug": "LayerWorks Solutions_logo_png_5bc912e3.png"
+        },
+        {
+            "id": "2d041ed9-daeb-53a2-bd79-8118afb485be",
+            "name": "LDO",
+            "slug": "ldo",
+            "origin": "CN",
+            "material_count": 2,
+            "path": "ldo/index.json",
+            "logo_slug": "LDO_logo_svg_55b038fe.svg"
+        },
+        {
+            "id": "03c571c5-343c-57bb-91d4-41cf0de34a2d",
+            "name": "LineBoss Filament",
+            "slug": "lineboss_filament",
+            "origin": "Unknown",
+            "material_count": 0,
+            "path": "lineboss_filament/index.json",
+            "logo_slug": "LineBoss Filament_logo_png_e4d3c9fb.png"
+        },
+        {
+            "id": "bbd0b73b-4b22-53c0-91db-40205c2d735f",
+            "name": "Liqcreate",
+            "slug": "liqcreate",
+            "origin": "NL",
+            "material_count": 0,
+            "path": "liqcreate/index.json",
+            "logo_slug": "Liqcreate_logo_svg_d4fee2b8.svg"
+        },
+        {
+            "id": "c49ad1a3-ff9d-5c87-b6f4-99ac968e0b6e",
+            "name": "LOCYFENS",
+            "slug": "locyfens",
+            "origin": "CN",
+            "material_count": 1,
+            "path": "locyfens/index.json",
+            "logo_slug": "LOCYFENS_logo_png_8227d824.png"
+        },
+        {
+            "id": "fc209e44-f363-56b2-9274-324d624466f1",
+            "name": "lostboyslab",
+            "slug": "lostboyslab",
+            "origin": "SE",
+            "material_count": 2,
+            "path": "lostboyslab/index.json",
+            "logo_slug": "lostboyslab_logo_svg_4dd76188.svg"
+        },
+        {
+            "id": "1f93d67c-853a-588d-8f83-835429ee5fe8",
+            "name": "LOVOON",
+            "slug": "lovoon",
+            "origin": "Unknown",
+            "material_count": 1,
+            "path": "lovoon/index.json",
+            "logo_slug": "LOVOON_logo_png_169370a1.png"
+        },
+        {
+            "id": "f0136118-051d-5980-bc65-ebdbd22e600f",
+            "name": "MarsWork",
+            "slug": "marswork",
+            "origin": "Unknown",
+            "material_count": 1,
+            "path": "marswork/index.json",
+            "logo_slug": "MarsWork_logo_png_b67914f4.png"
+        },
+        {
+            "id": "ee2aa1a3-429e-582b-a95a-be03c0b75814",
+            "name": "Matter3D Inc",
+            "slug": "matter3d_inc",
+            "origin": "CA",
+            "material_count": 2,
+            "path": "matter3d_inc/index.json",
+            "logo_slug": "Matter3D Inc_logo_png_234f6592.png"
+        },
+        {
+            "id": "07234b8a-483a-57f6-84fb-01b840ed8512",
+            "name": "MatterHackers",
+            "slug": "matterhackers",
+            "origin": "US",
+            "material_count": 7,
+            "path": "matterhackers/index.json",
+            "logo_slug": "MatterHackers_logo_svg_c39a44a2.svg"
+        },
+        {
+            "id": "9e5e14d7-9932-5a03-bbdc-51da50532326",
+            "name": "Mika3D",
+            "slug": "mika3d",
+            "origin": "Unknown",
+            "material_count": 1,
+            "path": "mika3d/index.json",
+            "logo_slug": "Mika3D_logo_png_5fdfdb57.png"
+        },
+        {
+            "id": "61c3a3e6-1336-51e5-851c-3331e194a2c3",
+            "name": "Mosaic",
+            "slug": "mosaic",
+            "origin": "CA",
+            "material_count": 3,
+            "path": "mosaic/index.json",
+            "logo_slug": "Mosaic_logo_svg_b5c5b7c1.svg"
+        },
+        {
+            "id": "80e4af7e-c5b7-508a-96a9-866a9c147f72",
+            "name": "Nebula",
+            "slug": "nebula",
+            "origin": "PL",
+            "material_count": 5,
+            "path": "nebula/index.json",
+            "logo_slug": "Nebula_logo_png_255bac82.png"
+        },
+        {
+            "id": "476140ea-cb4e-5475-a535-6322fed534df",
+            "name": "Nexaforge",
+            "slug": "nexaforge",
+            "origin": "CN",
+            "material_count": 1,
+            "path": "nexaforge/index.json",
+            "logo_slug": "Nexaforge_logo_png_655b8684.png"
+        },
+        {
+            "id": "0a27da56-5a1a-54aa-9ae3-f34914e92b1f",
+            "name": "NextShapes",
+            "slug": "nextshapes",
+            "origin": "CN",
+            "material_count": 0,
+            "path": "nextshapes/index.json",
+            "logo_slug": "NextShapes_logo_svg_d1c35cfd.svg"
+        },
+        {
+            "id": "5e05ba84-ce4a-5619-a131-95258abafd0b",
+            "name": "NinjaTek",
+            "slug": "ninjatek",
+            "origin": "US",
+            "material_count": 1,
+            "path": "ninjatek/index.json",
+            "logo_slug": "NinjaTek_logo_svg_4604fabd.svg"
+        },
+        {
+            "id": "79154143-7ed0-5c32-b5d2-201b00588e42",
+            "name": "Nobufil",
+            "slug": "nobufil",
+            "origin": "AT",
+            "material_count": 5,
+            "path": "nobufil/index.json",
+            "logo_slug": "Nobufil_logo_png_8a553cee.png"
+        },
+        {
+            "id": "79bb11d1-f66a-511f-bc09-f1e2d50ba515",
+            "name": "NOVTAU",
+            "slug": "novtau",
+            "origin": "CN",
+            "material_count": 8,
+            "path": "novtau/index.json",
+            "logo_slug": "NOVTAU_logo_png_afe03cee.png"
+        },
+        {
+            "id": "000c35f6-8e5c-513f-92c4-e8aa9dca9d04",
+            "name": "Numakers",
+            "slug": "numakers",
+            "origin": "US",
+            "material_count": 1,
+            "path": "numakers/index.json",
+            "logo_slug": "Numakers_logo_png_d2bab735.png"
+        },
+        {
+            "id": "66cc6a4e-bb46-5532-983c-0b3d76d753cd",
+            "name": "Overture",
+            "slug": "overture",
+            "origin": "US",
+            "material_count": 7,
+            "path": "overture/index.json",
+            "logo_slug": "Overture_logo_png_4e72d792.png"
+        },
+        {
+            "id": "15a03e37-9b11-5338-8ca0-9cf07dd40d61",
+            "name": "OVV3D",
+            "slug": "ovv3d",
+            "origin": "CH",
+            "material_count": 1,
+            "path": "ovv3d/index.json",
+            "logo_slug": "OVV3D_logo_png_3fa08529.png"
+        },
+        {
+            "id": "64c3196f-d6b7-5abe-850b-54fdd38d771e",
+            "name": "OWL Filament",
+            "slug": "owl_filament",
+            "origin": "DE",
+            "material_count": 2,
+            "path": "owl_filament/index.json",
+            "logo_slug": "OWL Filament_logo_svg_c3d4d4b2.svg"
+        },
+        {
+            "id": "08ac613b-f361-501f-a168-78d7fa57b8ae",
+            "name": "Panchroma",
+            "slug": "panchroma",
+            "origin": "CN",
+            "material_count": 2,
+            "path": "panchroma/index.json",
+            "parent_brand_id": "08110b99-03f7-5884-b7e7-07a3f659084d",
+            "logo_slug": "Panchroma_logo_png_2f25d961.png"
+        },
+        {
+            "id": "1491f938-a7ab-550c-ac42-ee1e785c8a4b",
+            "name": "Paramount 3D",
+            "slug": "paramount_3d",
+            "origin": "US",
+            "material_count": 7,
+            "path": "paramount_3d/index.json",
+            "logo_slug": "Paramount 3D_logo_jpg_14822f01.jpg"
+        },
+        {
+            "id": "874eb2e9-2d3f-574a-8328-7e199f5abec3",
+            "name": "Patron EG",
+            "slug": "patron_eg",
+            "origin": "EG",
+            "material_count": 2,
+            "path": "patron_eg/index.json",
+            "logo_slug": "Patron EG_logo_png_b3aa76a3.png"
+        },
+        {
+            "id": "d9e75344-5a14-5803-9fe8-3f8a0b3decd8",
+            "name": "Phrozen",
+            "slug": "phrozen",
+            "origin": "TW",
+            "material_count": 1,
+            "path": "phrozen/index.json",
+            "logo_slug": "Phrozen_logo_png_6ca501f9.png"
+        },
+        {
+            "id": "41e04ed7-3305-5b77-b521-115bbac4ee03",
+            "name": "Polar Filament",
+            "slug": "polar_filament",
+            "origin": "US",
+            "material_count": 6,
+            "path": "polar_filament/index.json",
+            "logo_slug": "Polar Filament_logo_png_eca11f89.png"
+        },
+        {
+            "id": "e6b00eb1-98fc-59b0-95a6-dfab5ccc509a",
+            "name": "PolyFlex",
+            "slug": "polyflex",
+            "origin": "CN",
+            "material_count": 1,
+            "path": "polyflex/index.json",
+            "parent_brand_id": "08110b99-03f7-5884-b7e7-07a3f659084d",
+            "logo_slug": "PolyFlex_logo_svg_9d7e9929.svg"
+        },
+        {
+            "id": "bbc30fd6-55c6-52e2-82e2-8c2c9619c245",
+            "name": "PolyLite",
+            "slug": "polylite",
+            "origin": "CN",
+            "material_count": 5,
+            "path": "polylite/index.json",
+            "parent_brand_id": "08110b99-03f7-5884-b7e7-07a3f659084d",
+            "logo_slug": "PolyLite_logo_svg_9ab5b6f9.svg"
+        },
+        {
+            "id": "08110b99-03f7-5884-b7e7-07a3f659084d",
+            "name": "Polymaker",
+            "slug": "polymaker",
+            "origin": "CN",
+            "material_count": 13,
+            "path": "polymaker/index.json",
+            "logo_slug": "Polymaker_logo_svg_44d55221.svg"
+        },
+        {
+            "id": "f25a971c-5e5f-53a4-b5c6-ceef50179a66",
+            "name": "PolyMide",
+            "slug": "polymide",
+            "origin": "CN",
+            "material_count": 1,
+            "path": "polymide/index.json",
+            "parent_brand_id": "08110b99-03f7-5884-b7e7-07a3f659084d",
+            "logo_slug": "PolyMide_logo_svg_04024477.svg"
+        },
+        {
+            "id": "07b68d0d-81e4-5e06-baf0-3084c0e54bac",
+            "name": "PolySonic",
+            "slug": "polysonic",
+            "origin": "CN",
+            "material_count": 1,
+            "path": "polysonic/index.json",
+            "parent_brand_id": "08110b99-03f7-5884-b7e7-07a3f659084d",
+            "logo_slug": "PolySonic_logo_svg_bbd1df48.svg"
+        },
+        {
+            "id": "e7fce867-db02-5097-9d92-8448f401d360",
+            "name": "Precision 3D Filament",
+            "slug": "precision_3d_filament",
+            "origin": "US",
+            "material_count": 1,
+            "path": "precision_3d_filament/index.json",
+            "logo_slug": "Precision 3D Filament_logo_png_619bf7fc.png"
+        },
+        {
+            "id": "a3bc267a-a1e0-5b21-a6a8-8bf712095665",
+            "name": "PrimaCreator",
+            "slug": "primacreator",
+            "origin": "SE",
+            "material_count": 14,
+            "path": "primacreator/index.json",
+            "logo_slug": "PrimaCreator_logo_png_ade86d0d.png"
+        },
+        {
+            "id": "7df7986c-de34-50e2-af82-f79189ca8ac6",
+            "name": "PrimaSelect",
+            "slug": "primaselect",
+            "origin": "SE",
+            "material_count": 8,
+            "path": "primaselect/index.json",
+            "parent_brand_id": "a3bc267a-a1e0-5b21-a6a8-8bf712095665",
+            "logo_slug": "PrimaSelect_logo_png_0d5f7cb0.png"
+        },
+        {
+            "id": "a663878a-9f34-5321-a8e0-44fcc889b0e3",
+            "name": "PrimaValue",
+            "slug": "primavalue",
+            "origin": "SE",
+            "material_count": 2,
+            "path": "primavalue/index.json",
+            "parent_brand_id": "a3bc267a-a1e0-5b21-a6a8-8bf712095665",
+            "logo_slug": "PrimaValue_logo_png_e4438c32.png"
+        },
+        {
+            "id": "16f41339-35a9-54d2-9158-c1c99427dd42",
+            "name": "Print With Smile",
+            "slug": "print_with_smile",
+            "origin": "CZ",
+            "material_count": 5,
+            "path": "print_with_smile/index.json",
+            "logo_slug": "Print With Smile_logo_png_43138cce.png"
+        },
+        {
+            "id": "255197d3-a63c-5090-83af-4a82715e810b",
+            "name": "PrintedSolid",
+            "slug": "printedsolid",
+            "origin": "US",
+            "material_count": 4,
+            "path": "printedsolid/index.json",
+            "logo_slug": "PrintedSolid_logo_png_56fabd6e.png"
+        },
+        {
+            "id": "d4cce42d-364d-57e1-a8e4-ba7b558340c7",
+            "name": "Professional LAB",
+            "slug": "professional_lab",
+            "origin": "PL",
+            "material_count": 6,
+            "path": "professional_lab/index.json",
+            "parent_brand_id": "b523fc1d-f057-5fb7-9227-dd9b11114f1b",
+            "logo_slug": "Professional LAB_logo_png_3792166b.png"
+        },
+        {
+            "id": "319451ff-3ae9-5d10-92a2-8b202aef2956",
+            "name": "Prografen",
+            "slug": "prografen",
+            "origin": "PL",
+            "material_count": 2,
+            "path": "prografen/index.json",
+            "logo_slug": "Prografen_logo_svg_75010fce.svg"
+        },
+        {
+            "id": "3b43e524-08f8-5ecb-8396-453a5ae90a7d",
+            "name": "Proteor Print",
+            "slug": "proteor_print",
+            "origin": "US",
+            "material_count": 3,
+            "path": "proteor_print/index.json",
+            "logo_slug": "Proteor Print_logo_png_37839bb4.png"
+        },
+        {
+            "id": "9a44c8dd-cd73-5dec-a12e-1ec5f68c8442",
+            "name": "Protopasta",
+            "slug": "protopasta",
+            "origin": "US",
+            "material_count": 4,
+            "path": "protopasta/index.json",
+            "logo_slug": "Protopasta_logo_png_424f685a.png"
+        },
+        {
+            "id": "7d85fb9b-66ae-508e-94dd-79ede549d87e",
+            "name": "Prusament",
+            "slug": "prusament",
+            "origin": "CZ",
+            "material_count": 9,
+            "path": "prusament/index.json",
+            "logo_slug": "Prusament_logo_png_f187f1bf.png"
+        },
+        {
+            "id": "8cb5f6cb-8828-50dd-9863-56c335762cfd",
+            "name": "Push Plastic",
+            "slug": "push_plastic",
+            "origin": "US",
+            "material_count": 11,
+            "path": "push_plastic/index.json",
+            "logo_slug": "Push Plastic_logo_png_cabe5402.png"
+        },
+        {
+            "id": "5135c23b-8749-5b00-b9d8-135b754486ca",
+            "name": "QIDI Tech",
+            "slug": "qidi_tech",
+            "origin": "CN",
+            "material_count": 11,
+            "path": "qidi_tech/index.json",
+            "logo_slug": "QIDI Tech_logo_png_5204dfa5.png"
+        },
+        {
+            "id": "0eef13f3-deb7-5277-a752-5dc7d9b095f8",
+            "name": "Recreus",
+            "slug": "recreus",
+            "origin": "ES",
+            "material_count": 5,
+            "path": "recreus/index.json",
+            "logo_slug": "Recreus_logo_png_8779997f.png"
+        },
+        {
+            "id": "2fd5bab9-4985-550d-af7f-2c1c128c7f81",
+            "name": "RecyclingFabrik",
+            "slug": "recyclingfabrik",
+            "origin": "DE",
+            "material_count": 2,
+            "path": "recyclingfabrik/index.json",
+            "logo_slug": "RecyclingFabrik_logo_png_39c87745.png"
+        },
+        {
+            "id": "1ed7d05d-b3a4-507f-81a7-2d0d5ea8ad44",
+            "name": "Renkforce",
+            "slug": "renkforce",
+            "origin": "Unknown",
+            "material_count": 1,
+            "path": "renkforce/index.json",
+            "logo_slug": "Renkforce_logo_png_c69bb747.png"
+        },
+        {
+            "id": "3137eac5-7426-5f72-9fb9-278245752062",
+            "name": "ROSA3D Filaments",
+            "slug": "rosa3d_filaments",
+            "origin": "PL",
+            "material_count": 9,
+            "path": "rosa3d_filaments/index.json",
+            "logo_slug": "ROSA3D Filaments_logo_png_1b90c101.png"
+        },
+        {
+            "id": "47f96f6a-d31b-5d76-be7b-4a45f855575b",
+            "name": "RS PRO",
+            "slug": "rs_pro",
+            "origin": "GB",
+            "material_count": 1,
+            "path": "rs_pro/index.json",
+            "logo_slug": "RS PRO_logo_png_d0f90a60.png"
+        },
+        {
+            "id": "3b3a6116-c7bd-5e5f-a917-3022ade9a799",
+            "name": "SainSmart",
+            "slug": "sainsmart",
+            "origin": "US",
+            "material_count": 9,
+            "path": "sainsmart/index.json",
+            "logo_slug": "SainSmart_logo_png_667d0336.png"
+        },
+        {
+            "id": "bb850528-1fb8-5199-91b6-38d2f33e4f46",
+            "name": "Sakata 3D",
+            "slug": "sakata_3d",
+            "origin": "ES",
+            "material_count": 6,
+            "path": "sakata_3d/index.json",
+            "logo_slug": "Sakata 3D_logo_jpg_4898183c.jpg"
+        },
+        {
+            "id": "232fa680-ad03-5abc-b643-bddcaaeedaff",
+            "name": "Siddament",
+            "slug": "siddament",
+            "origin": "AU",
+            "material_count": 6,
+            "path": "siddament/index.json",
+            "logo_slug": "Siddament_logo_png_96ddb389.png"
+        },
+        {
+            "id": "2ecc3c56-3720-5fac-9848-f4b24c7db24e",
+            "name": "Siraya Tech",
+            "slug": "siraya_tech",
+            "origin": "TW",
+            "material_count": 7,
+            "path": "siraya_tech/index.json",
+            "logo_slug": "Siraya Tech_logo_png_ebbe4977.png"
+        },
+        {
+            "id": "1bd35322-9116-5612-be90-56077de8a6da",
+            "name": "Slic3D",
+            "slug": "slic3d",
+            "origin": "NZ",
+            "material_count": 2,
+            "path": "slic3d/index.json",
+            "logo_slug": "Slic3D_logo_png_ca978e48.png"
+        },
+        {
+            "id": "979ac937-a2b3-5d7a-ba7a-54e19ac21f56",
+            "name": "SMART MATERIALS 3D",
+            "slug": "smart_materials_3d",
+            "origin": "ES",
+            "material_count": 14,
+            "path": "smart_materials_3d/index.json",
+            "logo_slug": "SMART MATERIALS 3D_logo_svg_18912020.svg"
+        },
+        {
+            "id": "b523fc1d-f057-5fb7-9227-dd9b11114f1b",
+            "name": "SmartPrint",
+            "slug": "smartprint",
+            "origin": "PL",
+            "material_count": 6,
+            "path": "smartprint/index.json",
+            "logo_slug": "SmartPrint_logo_png_c7605f1c.png"
+        },
+        {
+            "id": "a503604f-d3f1-592c-afb9-0f97a6ed519c",
+            "name": "Snapmaker",
+            "slug": "snapmaker",
+            "origin": "CN",
+            "material_count": 6,
+            "path": "snapmaker/index.json",
+            "logo_slug": "Snapmaker_logo_svg_644cc75f.svg"
+        },
+        {
+            "id": "17b962d3-eff0-526e-be2d-01a94802ecd7",
+            "name": "SOVB 3D",
+            "slug": "sovb_3d",
+            "origin": "FR",
+            "material_count": 2,
+            "path": "sovb_3d/index.json",
+            "logo_slug": "SOVB 3D_logo_jpg_181e7e5d.jpg"
+        },
+        {
+            "id": "345c7e77-14da-5f2f-adeb-2f5ada4f4d7f",
+            "name": "Spectrum",
+            "slug": "spectrum",
+            "origin": "PL",
+            "material_count": 13,
+            "path": "spectrum/index.json",
+            "logo_slug": "Spectrum_logo_png_76d50870.png"
+        },
+        {
+            "id": "ccfc3d10-0772-5dac-afe8-45cef2d44638",
+            "name": "StrongHero3D",
+            "slug": "stronghero3d",
+            "origin": "CN",
+            "material_count": 1,
+            "path": "stronghero3d/index.json",
+            "logo_slug": "StrongHero3D_logo_png_eae0e8bb.png"
+        },
+        {
+            "id": "1d35f140-7cba-5fa4-9bb6-9e3eb2fd95c6",
+            "name": "SUNLU",
+            "slug": "sunlu",
+            "origin": "CN",
+            "material_count": 13,
+            "path": "sunlu/index.json",
+            "logo_slug": "SUNLU_logo_png_f64189e0.png"
+        },
+        {
+            "id": "b95aa784-bc25-5fad-9bcd-5df16c74e5dd",
+            "name": "TECBEARS",
+            "slug": "tecbears",
+            "origin": "CN",
+            "material_count": 3,
+            "path": "tecbears/index.json",
+            "logo_slug": "TECBEARS_logo_png_0040895a.png"
+        },
+        {
+            "id": "34a96af6-a3ca-51a9-bdd4-d8dc2b435ffe",
+            "name": "Tectonic 3D",
+            "slug": "tectonic_3d",
+            "origin": "NL",
+            "material_count": 18,
+            "path": "tectonic_3d/index.json",
+            "logo_slug": "Tectonic 3D_logo_svg_44f417a9.svg"
+        },
+        {
+            "id": "cc66dfe7-34a2-54a2-9bf3-cf8d70aabb3d",
+            "name": "TEQStone",
+            "slug": "teqstone",
+            "origin": "CN",
+            "material_count": 5,
+            "path": "teqstone/index.json",
+            "logo_slug": "TEQStone_logo_png_26fb9545.png"
+        },
+        {
+            "id": "e9933dbe-0e77-505a-a1da-653388ee2b04",
+            "name": "The Filament",
+            "slug": "the_filament",
+            "origin": "PL",
+            "material_count": 4,
+            "path": "the_filament/index.json",
+            "parent_brand_id": "345c7e77-14da-5f2f-adeb-2f5ada4f4d7f",
+            "logo_slug": "The Filament_logo_png_0b414674.png"
+        },
+        {
+            "id": "6724aaab-ed4e-52d4-9c6f-c315ae845637",
+            "name": "TINMORRY",
+            "slug": "tinmorry",
+            "origin": "CH",
+            "material_count": 8,
+            "path": "tinmorry/index.json",
+            "logo_slug": "TINMORRY_logo_jpg_66e141ba.jpg"
+        },
+        {
+            "id": "a61a8b3d-2b51-5cf8-93be-d0e75d6ef939",
+            "name": "UniTak3D",
+            "slug": "unitak3d",
+            "origin": "CN",
+            "material_count": 1,
+            "path": "unitak3d/index.json",
+            "logo_slug": "UniTak3D_logo_png_45d8ddcb.png"
+        },
+        {
+            "id": "899056da-7115-5a77-afd9-8131e4b64bb8",
+            "name": "VANYO",
+            "slug": "vanyo",
+            "origin": "CN",
+            "material_count": 0,
+            "path": "vanyo/index.json",
+            "logo_slug": "VANYO_logo_svg_2bbae12b.svg"
+        },
+        {
+            "id": "42194302-ce26-5dde-ba29-a1d9607ea6dc",
+            "name": "Verbatim",
+            "slug": "verbatim",
+            "origin": "DE",
+            "material_count": 6,
+            "path": "verbatim/index.json",
+            "logo_slug": "Verbatim_logo_svg_d5d22b88.svg"
+        },
+        {
+            "id": "5ee80a2b-c77a-52b8-ac5d-04c9d8bff7da",
+            "name": "Voxel PLA",
+            "slug": "voxel_pla",
+            "origin": "US",
+            "material_count": 2,
+            "path": "voxel_pla/index.json",
+            "logo_slug": "Voxel PLA_logo_png_d5de9a59.png"
+        },
+        {
+            "id": "6b13aaed-6eea-5533-a49a-2c684a41c4fa",
+            "name": "Voxelab",
+            "slug": "voxelab",
+            "origin": "Unknown",
+            "material_count": 1,
+            "path": "voxelab/index.json",
+            "logo_slug": "Voxelab_logo_png_83833749.png"
+        },
+        {
+            "id": "85c3b02f-c329-5f33-b45b-ab8b3a6fe8c6",
+            "name": "Würth",
+            "slug": "w_rth",
+            "origin": "DE",
+            "material_count": 1,
+            "path": "w_rth/index.json",
+            "logo_slug": "Würth_logo_svg_a8ac00ce.svg"
+        },
+        {
+            "id": "d6b9af7f-3425-5a4c-a89c-ac0fc0cf238d",
+            "name": "Winkle",
+            "slug": "winkle",
+            "origin": "ES",
+            "material_count": 5,
+            "path": "winkle/index.json",
+            "logo_slug": "Winkle_logo_svg_e77afd52.svg"
+        },
+        {
+            "id": "5d5e9602-1ccc-5fe3-85ce-4d069cf2a0c1",
+            "name": "XZN",
+            "slug": "xzn",
+            "origin": "CN",
+            "material_count": 3,
+            "path": "xzn/index.json",
+            "logo_slug": "XZN_logo_png_570b6d36.png"
+        },
+        {
+            "id": "5ec527a8-c5fe-5f46-8bd9-bd0fedcdef58",
+            "name": "YooPai",
+            "slug": "yoopai",
+            "origin": "US",
+            "material_count": 1,
+            "path": "yoopai/index.json",
+            "logo_slug": "YooPai_logo_png_2ff44b03.png"
+        },
+        {
+            "id": "9ea63697-f7c9-5448-8baa-c57b03b0e772",
+            "name": "ZIRO 3D",
+            "slug": "ziro_3d",
+            "origin": "CN",
+            "material_count": 1,
+            "path": "ziro_3d/index.json",
+            "logo_slug": "ZIRO 3D_logo_png_3f69c5ac.png"
+        },
+        {
+            "id": "091aea1f-54f0-51f4-a483-76507e5be922",
+            "name": "Zyltech",
+            "slug": "zyltech",
+            "origin": "US",
+            "material_count": 4,
+            "path": "zyltech/index.json",
+            "logo_slug": "Zyltech_logo_jpg_1af709fa.jpg"
+        }
+    ]
+}
