@@ -9,7 +9,7 @@ import (
 )
 
 var (
-	baseURL   = "https://tyradex.app"
+	baseURL   = "https://api.openfilamentdatabase.org"
 	userAgent = "RickAndMorty-Ynov/1.0 (contact@exemple.fr)"
 )
 
@@ -56,13 +56,13 @@ func get(endpoint string, dest any) error {
 // GetCharacters récupère la liste complète des Pokémon depuis Tyradex.
 func GetCharacters() (models.CharacterPage, error) {
 	var page models.CharacterPage
-	err := get("/api/v1/pokemon", &page)
+	err := get("/api/v1/API-PRINTLAB-3D/", &page)
 	return page, err
 }
 
 // GetCharacter renvoie la fiche d'un personnage (endpoint /character/{id}).
 func GetCharacter(id int) (models.Character, error) {
 	var character models.Character
-	err := get(fmt.Sprintf("/api/v1/pokemon/%d", id), &character)
+	err := get(fmt.Sprintf("/api/v1/API-PRINTLAB-3D/%d", id), &character)
 	return character, err
 }
