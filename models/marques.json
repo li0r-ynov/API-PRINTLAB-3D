@@ -1,0 +1,11 @@
+{
+    "brands": {
+        "id": "1547b0a0-39fc-5114-bb7b-a6dfc2013bf7",
+        "name": "Bambu Lab",
+        "slug": "bambu_lab",
+        "origin": "CN",
+        "material_count": 12,
+        "path": "bambu_lab/index.json",
+        "logo_slug": "Bambu Lab_logo_png_778076ec.png"
+    }
+}

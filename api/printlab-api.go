@@ -10,7 +10,6 @@ import (
 
 var (
 	baseURL   = "https://api.openfilamentdatabase.org"
-	userAgent = "RickAndMorty-Ynov/1.0 (contact@exemple.fr)"
 )
 
 var client = &http.Client{
@@ -24,7 +23,6 @@ func get(endpoint string, dest any) error {
 		return fmt.Errorf("création de la requête : %w", err)
 	}
 	request.Header.Set("Accept", "application/json")
-	request.Header.Set("User-Agent", userAgent)
 	// 2. Envoyer la requête avec le client.
 	response, err := client.Do(request)
 	if err != nil {
