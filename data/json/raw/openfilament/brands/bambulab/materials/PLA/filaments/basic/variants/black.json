@@ -1,0 +1,58 @@
+{
+    "uuid": "cca3550f-7ce2-479c-8872-591b240e8026",
+    "id": "aded22a6-aebc-5a32-b4b9-daf91decfee0",
+    "name": "Black",
+    "color_hex": "#000000",
+    "filament_id": "ce414bd4-ea08-58c5-97f0-0396d2aedb47",
+    "slug": "black",
+    "discontinued": false,
+    "sizes": [
+        {
+            "uuid": "e730a1d1-042d-41de-ae28-05a4f6802c0d",
+            "filament_weight": 1000,
+            "diameter": 1.75,
+            "article_number": "10101",
+            "id": "a81b0544-0950-5b31-8f19-9bf3da8a13a0",
+            "variant_id": "aded22a6-aebc-5a32-b4b9-daf91decfee0",
+            "discontinued": false,
+            "gtin": "6975337031383",
+            "purchase_links": [
+                {
+                    "store_id": "63fd5666-437f-5ed6-868d-027c8b39c636",
+                    "url": "https://us.store.bambulab.com/collections/pla/products/pla-basic-filament?variant=41078274654344",
+                    "id": "009a4682-0610-559d-9bf9-e251040d3855",
+                    "size_id": "a81b0544-0950-5b31-8f19-9bf3da8a13a0",
+                    "spool_refill": false
+                }
+            ]
+        },
+        {
+            "uuid": "7ff836a5-a77a-471a-b7a0-cefb6bb65a8b",
+            "filament_weight": 1000,
+            "diameter": 1.75,
+            "spool_refill": true,
+            "container_material": "refill",
+            "gtin": "6975337031178",
+            "article_number": "10101",
+            "id": "53852945-5d38-5c7a-b67d-37f62f7eb439",
+            "variant_id": "aded22a6-aebc-5a32-b4b9-daf91decfee0",
+            "discontinued": false,
+            "purchase_links": [
+                {
+                    "store_id": "63fd5666-437f-5ed6-868d-027c8b39c636",
+                    "url": "https://us.store.bambulab.com/collections/pla/products/pla-basic-filament?variant=40988815556744",
+                    "id": "c802936a-2b3f-5e61-a8d7-5034c18444d7",
+                    "size_id": "53852945-5d38-5c7a-b67d-37f62f7eb439",
+                    "spool_refill": true
+                },
+                {
+                    "store_id": "057eea3d-49c0-554f-81e0-65a28706e67e",
+                    "url": "https://www.3djake.com/bambu-lab/pla-basic-black?sai=23939",
+                    "id": "e2b2f5da-316c-52d7-b3a7-c0096bc9c3fb",
+                    "size_id": "53852945-5d38-5c7a-b67d-37f62f7eb439",
+                    "spool_refill": true
+                }
+            ]
+        }
+    ]
+}

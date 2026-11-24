@@ -1,0 +1,300 @@
+{
+    "uuid": "7aaea8e5-c6c2-4858-87b3-7d2c64aa9bdd",
+    "id": "ce414bd4-ea08-58c5-97f0-0396d2aedb47",
+    "name": "PLA Basic",
+    "diameter_tolerance": 0.03,
+    "density": 1.24,
+    "min_print_temperature": 190,
+    "max_print_temperature": 230,
+    "min_bed_temperature": 35,
+    "max_bed_temperature": 45,
+    "max_volumetric_speed": 21,
+    "min_fan_speed": 100,
+    "max_fan_speed": 100,
+    "dry_temperature": 50,
+    "dry_time": 8,
+    "data_sheet_url": "https://cdn.shopify.com/s/files/1/0584/7236/6216/files/Bambu_PLA_Basic_Technical_Data_Sheet_bf3411ce-be39-4db7-9669-1b4671d2196b.pdf?v=1734060943",
+    "safety_sheet_url": "https://cdn.shopify.com/s/files/1/0584/7236/6216/files/Bambu_PLA_Basic_MSDS.pdf",
+    "slicer_settings": {
+        "bambustudio": {
+            "generic_id": "GFL99",
+            "id": "GFA00",
+            "profile_name": "Bambu PLA Basic"
+        },
+        "orcaslicer": {
+            "generic_id": "OFDSrzZ8",
+            "id": "OFoiVqVM",
+            "profile_name": "Bambu PLA Basic"
+        },
+        "elegooslicer": {
+            "generic_id": "GFL99",
+            "id": "GFA00",
+            "profile_name": "Bambu PLA Basic"
+        },
+        "crealityprint": {
+            "generic_id": "GFL99",
+            "id": "GFA00",
+            "profile_name": "Bambu PLA Basic"
+        },
+        "anycubicslicer": {
+            "generic_id": "GFL99",
+            "id": "GFA00",
+            "profile_name": "Bambu PLA Basic"
+        }
+    },
+    "brand_id": "1547b0a0-39fc-5114-bb7b-a6dfc2013bf7",
+    "material_id": "2c3d268f-2e94-5fdd-b6e8-692daa32fceb",
+    "slug": "basic",
+    "material": "PLA",
+    "discontinued": false,
+    "variants": [
+        {
+            "id": "0cc8aa86-1b07-5ce5-840e-fd548517e5bd",
+            "name": "Bambu Green",
+            "color_hex": "#00AE42",
+            "slug": "bambu_green",
+            "size_count": 3,
+            "path": "variants/bambu_green.json"
+        },
+        {
+            "id": "4e4f0d25-e7ee-5ff9-afbf-8fe37970994a",
+            "name": "Beige",
+            "color_hex": "#F7E6DE",
+            "slug": "beige",
+            "size_count": 1,
+            "path": "variants/beige.json"
+        },
+        {
+            "id": "aded22a6-aebc-5a32-b4b9-daf91decfee0",
+            "name": "Black",
+            "color_hex": "#000000",
+            "slug": "black",
+            "size_count": 2,
+            "path": "variants/black.json"
+        },
+        {
+            "id": "a5fb7459-c7e2-5c93-accf-e73654c67551",
+            "name": "Blue",
+            "color_hex": "#0A2989",
+            "slug": "blue",
+            "size_count": 2,
+            "path": "variants/blue.json"
+        },
+        {
+            "id": "05073a24-4ab0-54ca-964f-47d71dcbeeef",
+            "name": "Blue Gray",
+            "color_hex": "#5B6579",
+            "slug": "blue_gray",
+            "size_count": 2,
+            "path": "variants/blue_gray.json"
+        },
+        {
+            "id": "dc0d4342-d7b5-51c6-bc0f-63aeacfbaa01",
+            "name": "Bright Green",
+            "color_hex": "#BECF00",
+            "slug": "bright_green",
+            "size_count": 1,
+            "path": "variants/bright_green.json"
+        },
+        {
+            "id": "94aa0e1d-76a7-5652-a184-1a108c091c05",
+            "name": "Bronze",
+            "color_hex": "#847D48",
+            "slug": "bronze",
+            "size_count": 2,
+            "path": "variants/bronze.json"
+        },
+        {
+            "id": "ad140d6a-028d-5607-8a62-26b729c5ac61",
+            "name": "Brown",
+            "color_hex": "#9D432C",
+            "slug": "brown",
+            "size_count": 2,
+            "path": "variants/brown.json"
+        },
+        {
+            "id": "6dcf113b-f3e3-547a-94d6-31124fdc350e",
+            "name": "Cobalt Blue",
+            "color_hex": "#0056B8",
+            "slug": "cobalt_blue",
+            "size_count": 1,
+            "path": "variants/cobalt_blue.json"
+        },
+        {
+            "id": "ab8854ca-11ba-57d4-b13b-7822ae809a8c",
+            "name": "Cocoa Brown",
+            "color_hex": "#6F5034",
+            "slug": "cocoa_brown",
+            "size_count": 2,
+            "path": "variants/cocoa_brown.json"
+        },
+        {
+            "id": "1a499ff8-b7b1-5771-abcd-52c228c29131",
+            "name": "Cyan",
+            "color_hex": "#0086D6",
+            "slug": "cyan",
+            "size_count": 2,
+            "path": "variants/cyan.json"
+        },
+        {
+            "id": "c5060ebe-aec5-50e1-a0b6-62da534d35bd",
+            "name": "Dark Gray",
+            "color_hex": "#545454",
+            "slug": "dark_gray",
+            "size_count": 1,
+            "path": "variants/dark_gray.json"
+        },
+        {
+            "id": "49c76253-e5d7-5800-8d41-d50d715a2a52",
+            "name": "Gold",
+            "color_hex": "#E4BD68",
+            "slug": "gold",
+            "size_count": 1,
+            "path": "variants/gold.json"
+        },
+        {
+            "id": "be2434b1-ea09-5031-9ffa-42d0be0dfe05",
+            "name": "Gray",
+            "color_hex": "#8E9089",
+            "slug": "gray",
+            "size_count": 2,
+            "path": "variants/gray.json"
+        },
+        {
+            "id": "284a9c17-da93-58c1-b64b-8fa210577f23",
+            "name": "Green",
+            "color_hex": "#003B44",
+            "slug": "green",
+            "size_count": 1,
+            "path": "variants/green.json"
+        },
+        {
+            "id": "d84b5c43-4523-5f3e-b685-35e8e7f61ee4",
+            "name": "Hot Pink",
+            "color_hex": "#F5547C",
+            "slug": "hot_pink",
+            "size_count": 2,
+            "path": "variants/hot_pink.json"
+        },
+        {
+            "id": "9b38c1f8-d267-5944-8723-abadfa43ef67",
+            "name": "Indigo Purple",
+            "color_hex": "#482960",
+            "slug": "indigo_purple",
+            "size_count": 2,
+            "path": "variants/indigo_purple.json"
+        },
+        {
+            "id": "f30ff2c1-880d-5efa-b3fe-618dc6164245",
+            "name": "Jade White",
+            "color_hex": "#FFFFFF",
+            "slug": "jade_white",
+            "size_count": 3,
+            "path": "variants/jade_white.json"
+        },
+        {
+            "id": "7c2204c5-d1bf-5037-87c3-ff827b7b79fe",
+            "name": "Light Gray",
+            "color_hex": "#D1D3D5",
+            "slug": "light_gray",
+            "size_count": 1,
+            "path": "variants/light_gray.json"
+        },
+        {
+            "id": "a156934b-c113-5aaa-b728-d7cad1ab5ef1",
+            "name": "Magenta",
+            "color_hex": "#EC008C",
+            "slug": "magenta",
+            "size_count": 1,
+            "path": "variants/magenta.json"
+        },
+        {
+            "id": "a7244cf8-f73a-5af9-b06d-8b00587e6b2d",
+            "name": "Maroon Red",
+            "color_hex": "#9D2235",
+            "slug": "maroon_red",
+            "size_count": 1,
+            "path": "variants/maroon_red.json"
+        },
+        {
+            "id": "f735ed80-cc81-56f5-b903-8aabc84e5704",
+            "name": "Mistletoe Green",
+            "color_hex": "#3F8E43",
+            "slug": "mistletoe_green",
+            "size_count": 3,
+            "path": "variants/mistletoe_green.json"
+        },
+        {
+            "id": "d59c99c2-6b2e-5ada-959e-a94d6978f857",
+            "name": "Orange",
+            "color_hex": "#FF6A13",
+            "slug": "orange",
+            "size_count": 2,
+            "path": "variants/orange.json"
+        },
+        {
+            "id": "26bdde26-4cb2-5b98-8561-d11adc3cdb83",
+            "name": "Pink",
+            "color_hex": "#F55A74",
+            "slug": "pink",
+            "size_count": 2,
+            "path": "variants/pink.json"
+        },
+        {
+            "id": "e9f4dd4b-1e26-5c6d-964a-3a19017d64e3",
+            "name": "Pumpkin Orange",
+            "color_hex": "#FF9016",
+            "slug": "pumpkin_orange",
+            "size_count": 2,
+            "path": "variants/pumpkin_orange.json"
+        },
+        {
+            "id": "c8f667ec-3b89-55ab-a4c8-d15154977781",
+            "name": "Purple",
+            "color_hex": "#5E43B7",
+            "slug": "purple",
+            "size_count": 1,
+            "path": "variants/purple.json"
+        },
+        {
+            "id": "02eaa799-16a4-5a41-a641-980f31312c69",
+            "name": "Red",
+            "color_hex": "#C12E1F",
+            "slug": "red",
+            "size_count": 2,
+            "path": "variants/red.json"
+        },
+        {
+            "id": "afadcc6c-caf0-5c80-b630-abedc078f9d0",
+            "name": "Silver",
+            "color_hex": "#A6A9AA",
+            "slug": "silver",
+            "size_count": 3,
+            "path": "variants/silver.json"
+        },
+        {
+            "id": "f5f84dec-83b4-5492-b43c-c3f91f0a5258",
+            "name": "Sunflower Yellow",
+            "color_hex": "#FEC600",
+            "slug": "sunflower_yellow",
+            "size_count": 1,
+            "path": "variants/sunflower_yellow.json"
+        },
+        {
+            "id": "7a00998e-2131-5d87-a2a2-f68e057a37d8",
+            "name": "Turquoise",
+            "color_hex": "#00B1B7",
+            "slug": "turquoise",
+            "size_count": 1,
+            "path": "variants/turquoise.json"
+        },
+        {
+            "id": "ab38673d-c3b0-5b74-8414-5ca17723739b",
+            "name": "Yellow",
+            "color_hex": "#F4EE2A",
+            "slug": "yellow",
+            "size_count": 2,
+            "path": "variants/yellow.json"
+        }
+    ]
+}
