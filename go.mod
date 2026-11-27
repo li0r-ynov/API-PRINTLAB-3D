@@ -1,3 +1,3 @@
-module pokemon
+module printlab
 
 go 1.27.1

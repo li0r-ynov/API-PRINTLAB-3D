@@ -4,12 +4,12 @@ import (
 	"encoding/json"
 	"fmt"
 	"net/http"
-	"pokemon/models"
+	"printlab/models"
 	"time"
 )
 
 var (
-	baseURL   = "https://api.openfilamentdatabase.org"
+	baseURL = "https://api.openfilamentdatabase.org"
 )
 
 var client = &http.Client{
@@ -51,16 +51,3 @@ func get(endpoint string, dest any) error {
 	return nil
 }
 
-// GetCharacters récupère la liste complète des Pokémon depuis Tyradex.
-func GetCharacters() (models.CharacterPage, error) {
-	var page models.CharacterPage
-	err := get("/api/v1/API-PRINTLAB-3D/", &page)
-	return page, err
-}
-
-// GetCharacter renvoie la fiche d'un personnage (endpoint /character/{id}).
-func GetCharacter(id int) (models.Character, error) {
-	var character models.Character
-	err := get(fmt.Sprintf("/api/v1/API-PRINTLAB-3D/%d", id), &character)
-	return character, err
-}
