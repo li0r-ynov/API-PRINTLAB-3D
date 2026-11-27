@@ -51,3 +51,8 @@ func get(endpoint string, dest any) error {
 	return nil
 }
 
+func GetBrands() (models.BrandResponse, error) {
+	var brands models.BrandResponse
+	err := get(fmt.Sprintf("%s/api/v1/brands/index.json", baseURL), &brands)
+	return brands, err
+}

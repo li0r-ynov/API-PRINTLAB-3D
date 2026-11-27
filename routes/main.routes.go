@@ -3,7 +3,6 @@ package routes
 import (
 	"net/http"
 
-	"pokemon/controllers"
 )
 
 // MainRouter crée le routeur principal et y ajoute toutes les routes du site.
@@ -12,14 +11,12 @@ func MainRouter() *http.ServeMux {
 
 	// Fichiers statiques : /static/css/style.css → assets/css/style.css
 	fs := http.FileServer(http.Dir("assets"))
-	mux.Handle("GET /static/", http.StripPrefix("/static/", fs))
+	mux.Handle("GET /assets/", http.StripPrefix("/assets/", fs))
 
-	// L'accueil redirige vers la liste des personnages (redirection permanente)
-	mux.Handle("GET /{$}", http.RedirectHandler("/pokemon", http.StatusMovedPermanently))
 
-	characterRoutes(mux)
 
-	// Toute autre URL : page 404 du site
-	mux.HandleFunc("/", controllers.NotFound)
+	filamentRoutes(mux)
+
+	
 	return mux
 }
